@@ -4,7 +4,7 @@ AI-powered tool for removing unwanted objects from images with precision and eas
 
 ## Getting Started
 
-### If you are new to the Flutter, pleasee take a look at the links below!
+### If you are new to the Flutter, please take a look at the links below!
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
