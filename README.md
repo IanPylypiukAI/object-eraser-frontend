@@ -1,6 +1,6 @@
-# Tax Chatbot AI
+# AI Object Eraser
 
-AI-assistant for analyzing and searching for information in tax documents (IRS Code).
+AI-powered tool for removing unwanted objects from images with precision and ease.
 
 ## Getting Started
 
