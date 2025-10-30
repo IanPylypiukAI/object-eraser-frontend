@@ -12,7 +12,8 @@ AI-powered tool for removing unwanted objects from images with precision and eas
 
 ## Getting Started
 
-### If you are new to  Flutter, please take a look at the links below!
+All custom application code is located in the `lib/` directory.
+If you are new to  Flutter, please take a look at the links below!
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
