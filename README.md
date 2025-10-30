@@ -2,7 +2,14 @@
 
 AI-powered tool for removing unwanted objects from images with precision and ease.
 
+
+## Demo
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ca08ac06-6a2c-4c80-b342-5bc705f28050" width="300" />
+</p>
 ## Getting Started
+
+
 
 ### If you are new to the Flutter, please take a look at the links below!
 
